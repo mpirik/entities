@@ -1,8 +1,8 @@
 {
-  "name": "entities",
-  "version": "1.1.1",
+  "name": "entities-gsm",
+  "version": "1.0.0",
   "description": "Encode & decode XML/HTML entities with ease",
-  "author": "Felix Boehm <me@feedic.com>",
+  "author": "jlyman (http://www.mpirik.com)",
   "keywords": [
     "html",
     "xml",
@@ -29,7 +29,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/fb55/entities.git"
+    "url": "git://github.com/mpirik/entities.git"
   },
   "license": "BSD-2-Clause",
   "jshintConfig": {
